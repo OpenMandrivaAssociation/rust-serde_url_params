@@ -5,7 +5,7 @@
 %global crate serde_url_params
 
 Name:           rust-%{crate}
-Version:        0.2.0
+Version:        0.2.1
 Release:        1%{?dist}
 Summary:        URL parameters serialization
 
